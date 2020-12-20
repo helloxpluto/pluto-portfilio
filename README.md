@@ -33,4 +33,24 @@ OR
 
 Clone this project from My GitHub repo from your terminal by typing
 ``` 
-git clone 
+git clone  <copy the ssh link from the repo here>
+```
+>> example: git clone git@githubcom:supertokens/supertokens-core.git
+
+Next install the dependencies by running
+```
+npm install
+```
+once the installs are compleated open in VsCode by running
+```
+code .
+```
+once VsCode starts up on the bottom left corner of your screen, find and click the NPM SCRIPTS drop down menu and then click start.
+you can also run
+```
+npm start
+```
+right from your terminal.
+
+### thank you for checking out my GitHub and my portfolio.
+have an awesome day!!
