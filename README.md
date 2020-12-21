@@ -35,7 +35,7 @@ Clone this project from My GitHub repo from your terminal by typing
 ``` 
 git clone  <copy the ssh link from the repo here>
 ```
->> example: git clone git@githubcom:supertokens/supertokens-core.git
+* example: git clone git@githubcom:supertokens/supertokens-core.git
 
 Next install the dependencies by running
 ```
