@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=DM+Serif+Text:ital@0;1&family=Forum&family=Pacifico&family=Sansita+Swashed:wght@500&display=swap');
+.center {
+    
+    padding: 1rem;
+    justify-self: center;
+    text-align: center;
+    border: rgba(231, 149, 231, 0.336);
+    border-width: 2rem;
+    border-style:dashed;
+    background-color: rgba(144, 238, 207, 0.493);
+    margin: 1rem;
+}
+
+.res-container {
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+image {
+	justify-content: center;
+}
+
+.instruction {
+    font-family: 'DM Serif Text', serif;
+}
