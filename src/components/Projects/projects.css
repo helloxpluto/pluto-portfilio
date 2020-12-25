@@ -1,9 +1,16 @@
 .project-container {
-    display: grid;
-    grid-template-rows: 5rem 5rem 5rem 5rem;
-    grid-template-columns: 8rem;
+    display: flexbox;
+    flex-direction: column;
     text-align: center;
     justify-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;  
+    height: 50rem;
 
-    padding-top: 3rem;                                                                                                        
+}
+
+.cards1 {
+    margin: 1rem;
+    padding-bottom: 5rem;
+    
 }

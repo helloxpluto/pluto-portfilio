@@ -16,9 +16,9 @@ function App() {
 					<Nav />
 				</header>
 				<body class='bod'>
-					<Projects />
 					<Home />
-					<Route />
+					<Projects />
+					
 				</body>
 			</div>
 		);
