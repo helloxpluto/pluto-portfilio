@@ -76,15 +76,21 @@ const projects = () => {
 								</Card>
 							</div>
 						</Col>
-						<Col sm={4}>
+						<Col>
 							<div class='cards'>
 								<Card class='cards' style={{ width: '18rem' }}>
 									<Card.Img variant='top' src='holder.js/100px180' />
 									<Card.Body>
 										<Card.Title>White Elephant</Card.Title>
 										<Card.Text>
-											Some quick example text to build on the card title and
-											make up the bulk of the card's content.
+											A multiplayer game that users can play form the vcomfort of their own home.
+                                            taking the traditional white lelephant game and making an interactive version
+                                            that friends and family can play together over zoom. this app has the ability and
+                                            a great oportunity for a comerce app that can sell the users promoted items in specific
+                                            price ranges. it would be the perfect target audience since they are all in the market 
+                                            a simple fun gift that fits that price range. everyone pays for their gift and writes in
+                                            a valid shipping address before the game starts. at the end of the game. a list of all the 
+                                            gifts and their final owners are displayed and can then be dropp shipped to the corrrect player.  
 										</Card.Text>
 										<Button variant='primary'>Go somewhere</Button>
 									</Card.Body>
@@ -98,8 +104,9 @@ const projects = () => {
 									<Card.Body>
 										<Card.Title>Skull and Drones</Card.Title>
 										<Card.Text>
-											Some quick example text to build on the card title and
-											make up the bulk of the card's content.
+											is a web site blog and community app where drone enthusiests can get together and share information on drones.
+                                            personal fight videos and pictures as well as keep a flight log in their profile so other useers can see their level of experience. there will be a badge system depending on how long you have been a member. what kind of member you are and how much flight time you have behind the stcks.
+                                            this app will also be a way for pilots to network and share jobs and resources with their fellow community members. members can link their page to their linked in or resume t show their flight info. flight log. experience videos. what kind of technology they are proficvient at. if they have passed several quizes or community events and a list of all the different crafts they have piloted.
 										</Card.Text>
 										<Button variant='primary'>Go somewhere</Button>
 									</Card.Body>
